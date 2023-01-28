@@ -1,0 +1,4 @@
+{
+    "files.autoSave": "afterDelay",
+    "markdown-pdf.convertOnSave": true
+}
