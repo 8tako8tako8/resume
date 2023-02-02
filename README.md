@@ -1,7 +1,7 @@
 ## 概要
 ソフトウェアエンジニアとして，2021~現在に至るまで1年半の実務経験があります。業務ではスマホアプリのサーバーサイド開発において開発リーダーを担当しています。
 
-チームラボ株式会社では、サーバーサイドエンジニアとして入社し、サーバーサイドやクラウドインフラ、新卒内定者メンターと幅広い業務に携わっています。
+チームラボ株式会社では、サーバーサイドエンジニアとして入社し、サーバーサイドやクラウドインフラ、新卒研修メンターと幅広い業務に携わっています。
 
 ## 職務経歴
 |  会社名  |  期間  |  やったこと  |
@@ -112,16 +112,16 @@
 
 ### 42Tokyo在籍時に作成したアウトプット
 - Kubernetesを使用したマイクロサービス環境の構築
-  - GitHub: https://github.com/8tako8tako8/ft_services
+  - [GitHub](https://github.com/8tako8tako8/ft_services)
   - 使用技術: Kubernetes, Docker
 - レイキャスティングを用いた3Dゲーム
-  - GitHub: https://github.com/8tako8tako8/cub3d
+  - [GitHub](https://github.com/8tako8tako8/cub3d)
   - 使用言語: C言語
 - bashの再実装
-  - GitHub: https://github.com/8tako8tako8/42_minishell
+  - [GitHub](https://github.com/8tako8tako8/42_minishell)
   - 使用言語: C言語
 - 書籍管理アプリ
-  - GitHub: https://github.com/8tako8tako8/larabook-ci
+  - [GitHub](https://github.com/8tako8tako8/larabook-ci)
   - 使用技術: Laravel, PHP, Docker Compose, CloudFormation, CircleCI, PostgreSQL
 
 ### 保有資格
@@ -129,7 +129,7 @@
 - Java Silver
 
 ### 記事投稿
-- Qiita: https://qiita.com/kkk5713
+- [Qiita](https://qiita.com/kkk5713)
 
 ## 課外活動
 - Go言語の学習
