@@ -203,6 +203,11 @@
 - bashの再実装
   - [GitHub](https://github.com/8tako8tako8/42_minishell)
   - 使用言語: C言語
+- 書籍管理アプリ
+  - [GitHub](https://github.com/8tako8tako8/larabook-ci)
+  - 使用技術: Laravel, PHP, Docker Compose, CloudFormation, CircleCI, PostgreSQL
+
+### エンジニアになってから作成したアウトプット
 - Twitterクローン
   - GitHub
     - バックエンド
@@ -212,9 +217,6 @@
     - インフラ
       - https://github.com/8tako8tako8/terraform_ecs
     - 使用技術: Rails, React, ECS, Terraform, GitHub Actions, PostgreSQL
-- 書籍管理アプリ
-  - [GitHub](https://github.com/8tako8tako8/larabook-ci)
-  - 使用技術: Laravel, PHP, Docker Compose, CloudFormation, CircleCI, PostgreSQL
 
 ### 保有資格
 - AWS認定資格（CLF, SAA, DVA, SOA）
@@ -222,8 +224,10 @@
 - 基本情報技術者
 
 ### 記事投稿
-- テックブログ
+- 個人テックブログ
   - https://8tako8tako8.hatenablog.com/
+- 会社のテックブログ
+  - https://tech.smarthr.jp/entry/2024/12/16/100000
 
 ## パフォーマンスを出せる環境
 - 情報がオープンになっていること
