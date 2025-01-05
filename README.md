@@ -210,13 +210,10 @@
 ### エンジニアになってから作成したアウトプット
 - Twitterクローン
   - GitHub
-    - バックエンド
-      - https://github.com/8tako8tako8/twitter_rails_api
-    - フロントエンド
-      - https://github.com/8tako8tako8/twitter_react
-    - インフラ
-      - https://github.com/8tako8tako8/terraform_ecs
-    - 使用技術: Rails, React, ECS, Terraform, GitHub Actions, PostgreSQL
+    - [バックエンド](https://github.com/8tako8tako8/twitter_rails_api)
+    - [フロントエンド](https://github.com/8tako8tako8/twitter_react)
+    - [インフラ](https://github.com/8tako8tako8/terraform_ecs)
+  - 使用技術: Rails, React, ECS, Terraform, GitHub Actions, PostgreSQL
 
 ### 保有資格
 - AWS認定資格（CLF, SAA, DVA, SOA）
@@ -224,10 +221,9 @@
 - 基本情報技術者
 
 ### 記事投稿
-- 個人テックブログ
-  - https://8tako8tako8.hatenablog.com/
+- [個人テックブログ](https://8tako8tako8.hatenablog.com/)
 - 会社のテックブログ
-  - https://tech.smarthr.jp/entry/2024/12/16/100000
+  - [GAS × New Relic を駆使して立ち向かうパフォーマンス改善](https://tech.smarthr.jp/entry/2024/12/16/100000)
 
 ## パフォーマンスを出せる環境
 - 情報がオープンになっていること
